@@ -18,4 +18,4 @@ USD_BRL_hist.csv
 
 ## Autor
 
-Seu Nome
+Iohannã Lins
